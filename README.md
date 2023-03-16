@@ -1,2 +1,2 @@
 # mikrotik_backup
-Backup mikrotik via ssh.
+Powershell script to backup mikrotik via ssh.
